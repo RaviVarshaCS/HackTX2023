@@ -1,0 +1,1251 @@
+{
+    "10005-1": {
+        "name": "2 x 4 Sand Red Bricks",
+        "num_parts": 50,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10005-1/11503.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10006-1": {
+        "name": "1 x 6 Sand Red Bricks",
+        "num_parts": 50,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10006-1/11504.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10008-1": {
+        "name": "2 x 4 Roof Tile Sand Red",
+        "num_parts": 50,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10008-1/9687.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10011-1": {
+        "name": "Assorted Blue Plates",
+        "num_parts": 42,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10011-1/8979.jpg",
+        "parts_list": {
+            "count": 1,
+            "next": null,
+            "previous": null,
+            "results": [
+                {
+                    "part_num": "10102754",
+                    "name": "Sticker Sheet for Set 910011-1",
+                    "part_cat_id": 58,
+                    "year_from": 2023,
+                    "year_to": 2023,
+                    "part_url": "https://rebrickable.com/parts/10102754/sticker-sheet-for-set-910011-1/",
+                    "part_img_url": null,
+                    "prints": [],
+                    "molds": [],
+                    "alternates": [],
+                    "external_ids": {
+                        "BrickLink": [
+                            "910011stk01"
+                        ],
+                        "BrickOwl": [
+                            "1080314"
+                        ],
+                        "LEGO": [
+                            "102754"
+                        ]
+                    },
+                    "print_of": null
+                }
+            ]
+        }
+    },
+    "10012-1": {
+        "name": "Assorted Yellow Plates",
+        "num_parts": 42,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10012-1/3062.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10042-1": {
+        "name": "American Flag",
+        "num_parts": 35,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10042-1/8780.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10044-1": {
+        "name": "Windows and Doors",
+        "num_parts": 44,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10044-1/6202.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10047-1": {
+        "name": "Light Gray Arches",
+        "num_parts": 36,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10047-1/10373.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10049-1": {
+        "name": "Large Wheels and Axles",
+        "num_parts": 31,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10049-1/6910.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10050-1": {
+        "name": "Gray Fences",
+        "num_parts": 34,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10050-1/6204.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10051-1": {
+        "name": "Transparent Bricks",
+        "num_parts": 50,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10051-1/1402.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10053-1": {
+        "name": "Black Slopes 33",
+        "num_parts": 44,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10053-1/1400.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10055-1": {
+        "name": "Black Slopes 33 3 x 1 and 3 x 3",
+        "num_parts": 50,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10055-1/120206.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10066-1": {
+        "name": "Castle Accessories",
+        "num_parts": 41,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10066-1/120281.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10068-1": {
+        "name": "Santa Claus",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10068-1/120263.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10069-1": {
+        "name": "Christmas Tree",
+        "num_parts": 33,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10069-1/120227.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10076-1": {
+        "name": "TECHNIC Gear Wheels",
+        "num_parts": 40,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10076-1/120205.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10079-1": {
+        "name": "Snowman",
+        "num_parts": 42,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10079-1/120241.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10080-1": {
+        "name": "Angel",
+        "num_parts": 33,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10080-1/120235.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10116-1": {
+        "name": "Accessories Heart",
+        "num_parts": 50,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10116-1/1524.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10117-1": {
+        "name": "Accessories Daisy",
+        "num_parts": 50,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10117-1/1525.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10118-1": {
+        "name": "Accessories Star",
+        "num_parts": 50,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10118-1/120246.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10149-1": {
+        "name": "Assorted Dark Gray Plates",
+        "num_parts": 42,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10149-1/3511.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10150-1": {
+        "name": "Assorted Brown Plates",
+        "num_parts": 42,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10150-1/1533.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10160-1": {
+        "name": "Black Ridge Roof Tiles",
+        "num_parts": 48,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10160-1/1529.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10162-1": {
+        "name": "Red Ridge Tiles",
+        "num_parts": 48,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10162-1/9294.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10166-1": {
+        "name": "Elf Girl",
+        "num_parts": 31,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10166-1/120204.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10500-1": {
+        "name": "Horse Stable",
+        "num_parts": 44,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10500-1/15364.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10510-1": {
+        "name": "Ripslinger's Air Race",
+        "num_parts": 40,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10510-1/2991.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10513-1": {
+        "name": "Never Land Hideout",
+        "num_parts": 37,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10513-1/10458.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10515-1": {
+        "name": "Ariel's Undersea Castle",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10515-1/9394.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10516-1": {
+        "name": "Ariel's Magical Boat Ride",
+        "num_parts": 30,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10516-1/45811.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10517-1": {
+        "name": "My First Garden",
+        "num_parts": 38,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10517-1/12989.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10518-1": {
+        "name": "My First Construction Site",
+        "num_parts": 43,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10518-1/15488.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10526-1": {
+        "name": "Peter Pan's Visit",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10526-1/13793.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10532-1": {
+        "name": "My First Police Set",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10532-1/13797.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10538-1": {
+        "name": "Fire and Rescue Team",
+        "num_parts": 30,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10538-1/1783.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10539-1": {
+        "name": "Beach Racing",
+        "num_parts": 37,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10539-1/16822.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10544-1": {
+        "name": "The Joker Challenge",
+        "num_parts": 40,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10544-1/11919.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10546-1": {
+        "name": "My First Shop",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10546-1/1303.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10552-1": {
+        "name": "Creative Cars",
+        "num_parts": 41,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10552-1/15600.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10558-1": {
+        "name": "Number Train",
+        "num_parts": 31,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10558-1/3234.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10561-1": {
+        "name": "Toddler Starter Building Set",
+        "num_parts": 37,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10561-1/5496.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10569-1": {
+        "name": "Treasure Attack",
+        "num_parts": 46,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10569-1/16908.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10570-1": {
+        "name": "All-in-One-Gift-Set",
+        "num_parts": 30,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10570-1/12396.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10582-1": {
+        "name": "Forest: Animals",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10582-1/7170.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10583-1": {
+        "name": "Forest: Fishing Trip",
+        "num_parts": 32,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10583-1/74.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10594-1": {
+        "name": "Sofia's Royal Stable",
+        "num_parts": 38,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10594-1/1009.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10599-1": {
+        "name": "Batman Adventure",
+        "num_parts": 47,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10599-1/2153.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10602-1": {
+        "name": "Camping",
+        "num_parts": 38,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10602-1/7516.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10606-1": {
+        "name": "Backyard Clinic",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10606-1/12051.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10730-1": {
+        "name": "Lightning McQueen Speed Launcher",
+        "num_parts": 47,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10730-1/598.jpg",
+        "parts_list": {
+            "count": 1,
+            "next": null,
+            "previous": null,
+            "results": [
+                {
+                    "part_num": "93587pr0009",
+                    "name": "Vehicle Body, Wheel Arch / Mudguard 3 x 4 x 1 2/3 Curved with Front with Headlights, Grill and 'Rust-eze' Print (10730-1)",
+                    "part_cat_id": 36,
+                    "year_from": 2017,
+                    "year_to": 2017,
+                    "part_url": "https://rebrickable.com/parts/93587pr0009/vehicle-body-wheel-arch-mudguard-3-x-4-x-1-23-curved-with-front-with-headlights-grill-and-rust-eze-print-10730-1/",
+                    "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6186110.jpg",
+                    "prints": [],
+                    "molds": [],
+                    "alternates": [],
+                    "external_ids": {
+                        "BrickLink": [
+                            "93587pb11"
+                        ],
+                        "BrickOwl": [
+                            "247989"
+                        ],
+                        "Brickset": [
+                            "32976"
+                        ],
+                        "LEGO": [
+                            "32976"
+                        ]
+                    },
+                    "print_of": "93587"
+                }
+            ]
+        }
+    },
+    "10803-1": {
+        "name": "Arctic",
+        "num_parts": 40,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10803-1/11020.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10810-1": {
+        "name": "Push Train",
+        "num_parts": 45,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10810-1/3809.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10816-1": {
+        "name": "My First Cars and Trucks",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10816-1/5355.jpg",
+        "parts_list": {
+            "count": 3,
+            "next": null,
+            "previous": null,
+            "results": [
+                {
+                    "part_num": "6150516",
+                    "name": "Idea Card, For Set 10816-1 - Card 1",
+                    "part_cat_id": 17,
+                    "year_from": 2016,
+                    "year_to": 2016,
+                    "part_url": "https://rebrickable.com/parts/6150516/idea-card-for-set-10816-1-card-1/",
+                    "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/6150516-9999-fa055a88-aa67-40f5-8dfa-f59b81f35a9b.jpg",
+                    "prints": [],
+                    "molds": [],
+                    "alternates": [],
+                    "external_ids": {
+                        "BrickLink": [
+                            "6150516"
+                        ]
+                    },
+                    "print_of": null
+                },
+                {
+                    "part_num": "6150517",
+                    "name": "Idea Card, For Set 10816-1 - Card 2",
+                    "part_cat_id": 17,
+                    "year_from": 2016,
+                    "year_to": 2016,
+                    "part_url": "https://rebrickable.com/parts/6150517/idea-card-for-set-10816-1-card-2/",
+                    "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/6150517-9999-0791c381-58f2-42fb-8566-4672f38257f4.jpg",
+                    "prints": [],
+                    "molds": [],
+                    "alternates": [],
+                    "external_ids": {
+                        "BrickLink": [
+                            "6150517"
+                        ]
+                    },
+                    "print_of": null
+                },
+                {
+                    "part_num": "6150518",
+                    "name": "Idea Card, For Set 10816-1 - Card 3",
+                    "part_cat_id": 17,
+                    "year_from": 2016,
+                    "year_to": 2016,
+                    "part_url": "https://rebrickable.com/parts/6150518/idea-card-for-set-10816-1-card-3/",
+                    "part_img_url": "https://cdn.rebrickable.com/media/parts/photos/9999/6150518-9999-4351720f-86f6-4a77-bd25-5781b7b64f75.jpg",
+                    "prints": [],
+                    "molds": [],
+                    "alternates": [],
+                    "external_ids": {
+                        "BrickLink": [
+                            "6150518"
+                        ]
+                    },
+                    "print_of": null
+                }
+            ]
+        }
+    },
+    "10822-1": {
+        "name": "Sofia's Magical Carriage",
+        "num_parts": 30,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10822-1/627.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10825-1": {
+        "name": "Miles' Exo-Flex Suit",
+        "num_parts": 37,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10825-1/6000.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10826-1": {
+        "name": "Miles' Stellosphere Hangar",
+        "num_parts": 44,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10826-1/17154.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10827-1": {
+        "name": "Mickey & Friends Beach House",
+        "num_parts": 48,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10827-1/203.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10828-1": {
+        "name": "Doc's Pet Vet Care",
+        "num_parts": 30,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10828-1/768.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10833-1": {
+        "name": "Preschool",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10833-1/15485.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10837-1": {
+        "name": "Santa's Winter Holiday",
+        "num_parts": 45,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10837-1/10532.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10839-1": {
+        "name": "Shooting Gallery",
+        "num_parts": 32,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10839-1/11251.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10857-1": {
+        "name": "Piston Cup Race",
+        "num_parts": 31,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10857-1/10273.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "1086-1": {
+        "name": "Bulk Bucket",
+        "num_parts": 48,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/1086-1/10063.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10862-1": {
+        "name": "My First Celebration",
+        "num_parts": 41,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10862-1/1045.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10863-1": {
+        "name": "My First Animal Brick Box",
+        "num_parts": 34,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10863-1/10774.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10876-1": {
+        "name": "Spider-Man & Hulk Adventures",
+        "num_parts": 38,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10876-1/6809.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10878-1": {
+        "name": "Rapunzel's Tower",
+        "num_parts": 37,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10878-1/5882.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10886-1": {
+        "name": "My First Car Creations",
+        "num_parts": 34,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10886-1/10684.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10902-1": {
+        "name": "Police Station",
+        "num_parts": 38,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10902-1/14893.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10915-1": {
+        "name": "Alphabet Truck",
+        "num_parts": 36,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10915-1/15140.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10919-1": {
+        "name": "Batcave",
+        "num_parts": 33,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10919-1/64766.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10921-1": {
+        "name": "Super Heroes Lab",
+        "num_parts": 30,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10921-1/15152.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10922-1": {
+        "name": "Ariel's Undersea Castle",
+        "num_parts": 35,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10922-1/64753.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10924-1": {
+        "name": "Lightning McQueen's Race Day",
+        "num_parts": 42,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10924-1/64741.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10928-1": {
+        "name": "Bakery",
+        "num_parts": 46,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10928-1/15158.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10939-1": {
+        "name": "T. rex and Triceratops Dinosaur Breakout",
+        "num_parts": 36,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10939-1/87366.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10940-1": {
+        "name": "Spider-Man Headquarters",
+        "num_parts": 36,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10940-1/87495.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10946-1": {
+        "name": "Family Camping Van Adventure",
+        "num_parts": 30,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10946-1/87379.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10947-1": {
+        "name": "Race Cars",
+        "num_parts": 44,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10947-1/87518.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10959-1": {
+        "name": "Police Station & Helicopter",
+        "num_parts": 40,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10959-1/98020.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10962-1": {
+        "name": "Buzz Lightyear's Planetary Mission",
+        "num_parts": 37,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10962-1/100398.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10963-1": {
+        "name": "Spider-Man & Friends: Funfair Adventure",
+        "num_parts": 41,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10963-1/102181.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10968-1": {
+        "name": "Doctor Visit",
+        "num_parts": 34,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10968-1/98107.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "10972-1": {
+        "name": "Wild Animals of the Ocean",
+        "num_parts": 33,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10972-1/102160.jpg",
+        "parts_list": {
+            "count": 1,
+            "next": null,
+            "previous": null,
+            "results": [
+                {
+                    "part_num": "6399198",
+                    "name": "Backdrop, Duplo Ocean Scenery, for Set 10972-1",
+                    "part_cat_id": 17,
+                    "year_from": 2022,
+                    "year_to": 2022,
+                    "part_url": "https://rebrickable.com/parts/6399198/backdrop-duplo-ocean-scenery-for-set-10972-1/",
+                    "part_img_url": null,
+                    "prints": [],
+                    "molds": [],
+                    "alternates": [],
+                    "external_ids": {
+                        "BrickLink": [
+                            "10972cdb01"
+                        ]
+                    },
+                    "print_of": null
+                }
+            ]
+        }
+    },
+    "10976-1": {
+        "name": "Santa's Gingerbread House",
+        "num_parts": 50,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/10976-1/103356.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11938-1": {
+        "name": "Robot",
+        "num_parts": 45,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11938-1/117896.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11942-1": {
+        "name": "Lunar Lander",
+        "num_parts": 45,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11942-1/117900.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11944-1": {
+        "name": "Skull",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11944-1/100246.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11945-1": {
+        "name": "Steam Locomotive",
+        "num_parts": 38,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11945-1/117903.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11946-1": {
+        "name": "Penguin",
+        "num_parts": 48,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11946-1/79242.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11947-1": {
+        "name": "Time Machine",
+        "num_parts": 39,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11947-1/97716.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11948-1": {
+        "name": "Carnivorous Plant",
+        "num_parts": 43,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11948-1/100082.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11949-1": {
+        "name": "Parrot",
+        "num_parts": 44,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11949-1/97682.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11950-1": {
+        "name": "Racing Car",
+        "num_parts": 34,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11950-1/97653.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "1195-1": {
+        "name": "Alien Encounter",
+        "num_parts": 42,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/1195-1/7383.jpg",
+        "parts_list": {
+            "count": 1,
+            "next": null,
+            "previous": null,
+            "results": [
+                {
+                    "part_num": "37803",
+                    "name": "Sticker Sheet for Set 41195-1",
+                    "part_cat_id": 58,
+                    "year_from": 2018,
+                    "year_to": 2018,
+                    "part_url": "https://rebrickable.com/parts/37803/sticker-sheet-for-set-41195-1/",
+                    "part_img_url": null,
+                    "prints": [],
+                    "molds": [],
+                    "alternates": [],
+                    "external_ids": {
+                        "BrickLink": [
+                            "41195stk01"
+                        ],
+                        "BrickOwl": [
+                            "456438"
+                        ]
+                    },
+                    "print_of": null
+                }
+            ]
+        }
+    },
+    "11952-1": {
+        "name": "Wind Energy",
+        "num_parts": 38,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11952-1/100310.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11953-1": {
+        "name": "Gecko",
+        "num_parts": 36,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11953-1/117911.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    },
+    "11954-1": {
+        "name": "Spaceship",
+        "num_parts": 40,
+        "set_img_url": "https://cdn.rebrickable.com/media/sets/11954-1/97720.jpg",
+        "parts_list": {
+            "count": 0,
+            "next": null,
+            "previous": null,
+            "results": []
+        }
+    }
+}
