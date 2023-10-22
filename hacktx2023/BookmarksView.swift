@@ -12,10 +12,8 @@ struct BookmarksView: View {
     
     var body: some View{
         NavigationView(){
-            
             VStack{
                 HStack{
-                    Text("Bookmarks")
                     Image("Obie")
                 }
                 ScrollView{
@@ -69,6 +67,7 @@ struct BookmarksView: View {
                 }
             }
             .navigationBarBackButtonHidden(true)
+            .navigationTitle("Bookmarks")
         }
     }
 }

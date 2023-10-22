@@ -48,13 +48,22 @@ struct ResultView: View {
                 HStack {
                     Image("8780")
                         .resizable()
-                        .frame(width: 50, height: 50)
+                        .frame(width: 200, height: 200)
+                }
+                HStack {
                     Image("120235")
                         .resizable()
-                        .frame(width: 50, height: 50)
+                        .frame(width: 200, height: 200)
+                }
+                HStack {
                     Image("120241")
                         .resizable()
-                        .frame(width: 50, height: 50)
+                        .frame(width: 200, height: 200)
+                }
+                NavigationLink() {
+                    HomeView()
+                }label: {
+                    Image("bottomTab")
                 }
             }
         }

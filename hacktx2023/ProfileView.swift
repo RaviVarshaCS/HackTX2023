@@ -16,8 +16,16 @@ struct ProfileView: View {
                 VStack {
                     Image("selfie")
                         .resizable()
-                        .frame(width: 50, height: 50)
-                    Text("WOOPEEEEE")
+                        .frame(width: 300, height: 300)
+                    Text("My Profile")
+                    Text("Silly Points: 10,0000")
+                    Text("You are doing quite silly, my friend")
+                    VStack {
+                        Text("Your Projects")
+                        Image("8780")
+                            .resizable()
+                            .frame(width: 100, height: 100)
+                    }
                 }.frame(minHeight: 0, maxHeight: .infinity)
                 
                 HStack{
